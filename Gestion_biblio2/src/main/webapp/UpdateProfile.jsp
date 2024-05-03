@@ -1,6 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="dao.MembreDAOImpl, metier.Membre" %>
 
+
 <html>
 <head>
     <title>Update Profile</title>
